@@ -13,7 +13,7 @@ Screencasts are used in business intelligence (BI) courses to demonstrate to lea
  
  *Tips for recording the screencast: make sure the audio narration is clear and not too fast to follow. It’s often easier to first record the audio and then record your screen while listening to the audio.* 
 
-- [ ] Upload your screencast to your platform of choice (e.g., Dropbox, Google Drive) and paste the link here: 
+- [ ] Upload your screencast to your platform of choice (e.g., Dropbox, Google Drive) and paste the link here: https://wetransfer.com/downloads/8823f175ac074c5ba517165b4c49d96f20230131123109/a0ed5a0f53e9012394c61ca6635f934120230131123133/05c0f2
 
 ### Step 2: Virtual Machine Exercise
 
